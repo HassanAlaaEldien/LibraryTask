@@ -10,7 +10,7 @@ use Illuminate\Http\Request;
 class UsersController extends Controller
 {
     /**
-     * Handle the request for listing all users.
+     * Handle the request for listing users.
      *
      * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
      */
